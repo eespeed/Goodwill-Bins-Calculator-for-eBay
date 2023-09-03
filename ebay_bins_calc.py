@@ -1,5 +1,5 @@
 # This program is used to determine the price you paid for a specific item at the
-# goodwill outlet store (aka the goodwill bins). It is hard to know the exact
+# goodwill outlet store (aka the goodwill bins). It was hard to know the exact
 # price I paid for an item when inputting its information on my eBay spreadsheet since they charge
 # by the pound, so I have created this calculator to solve that issue. Simply weigh your item, input
 # its weight, and see the exact price you paid for it. The store in my area charges $1.69 per 2 lbs,
